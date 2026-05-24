@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mph2pofs8ieqp"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mph2pofs8ieqp">
+    <organization identifier="eXe-mph2pofs8ieqp" structure="hierarchical">
+      <title>EL MUNDO DE LOS NUMEROS DESCUBRE LOS SECRETOS DE M.C.M Y M.C.D</title>
+      <item identifier="ITEM-page-mph1kj82-fa7jwhpfs" identifierref="RES-page-mph1kj82-fa7jwhpfs" isvisible="true">
+        <title>PORTADA</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj84-sx58m0okj" identifierref="RES-page-mph1kj84-sx58m0okj" isvisible="true">
+        <title>Área de información</title>
+        <item identifier="ITEM-page-mph1kj85-c9xl6ykvq" identifierref="RES-page-mph1kj85-c9xl6ykvq" isvisible="true">
+          <title>Creditos</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-mph1kj86-7fhn4kgdo" identifierref="RES-page-mph1kj86-7fhn4kgdo" isvisible="true">
+        <title>Menú</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj88-6a9gzx7k1" identifierref="RES-page-mph1kj88-6a9gzx7k1" isvisible="true">
+        <title>Diagnostica</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj89-9kan5frzj" identifierref="RES-page-mph1kj89-9kan5frzj" isvisible="true">
+        <title>Criterios de divisibilidad</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8a-9sn0xlnp9" identifierref="RES-page-mph1kj8a-9sn0xlnp9" isvisible="true">
+        <title>actividad1</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8a-dam5u5ztg" identifierref="RES-page-mph1kj8a-dam5u5ztg" isvisible="true">
+        <title>Reto1</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8a-gi2j6wil1" identifierref="RES-page-mph1kj8a-gi2j6wil1" isvisible="true">
+        <title>Mínimo común multiplo</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8b-6lwfjweqe" identifierref="RES-page-mph1kj8b-6lwfjweqe" isvisible="true">
+        <title>Actividad2</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8b-480tl5mmw" identifierref="RES-page-mph1kj8b-480tl5mmw" isvisible="true">
+        <title>Reto2</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8b-cnozo15mk" identifierref="RES-page-mph1kj8b-cnozo15mk" isvisible="true">
+        <title>Maximo Comun divisor</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8c-kke7wcaky" identifierref="RES-page-mph1kj8c-kke7wcaky" isvisible="true">
+        <title>Actividad3</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8d-dcncbgyzt" identifierref="RES-page-mph1kj8d-dcncbgyzt" isvisible="true">
+        <title>Reto3</title>
+      </item>
+      <item identifier="ITEM-page-mph1kj8d-3seab6wk3" identifierref="RES-page-mph1kj8d-3seab6wk3" isvisible="true">
+        <title>Evaluación final</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-page-mph1kj82-fa7jwhpfs" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj84-sx58m0okj" type="webcontent" adlcp:scormtype="sco" href="html/area-de-informacion.html">
+      <file href="html/area-de-informacion.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj85-c9xl6ykvq" type="webcontent" adlcp:scormtype="sco" href="html/creditos.html">
+      <file href="html/creditos.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj86-7fhn4kgdo" type="webcontent" adlcp:scormtype="sco" href="html/menu.html">
+      <file href="html/menu.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj88-6a9gzx7k1" type="webcontent" adlcp:scormtype="sco" href="html/diagnostica.html">
+      <file href="html/diagnostica.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj89-9kan5frzj" type="webcontent" adlcp:scormtype="sco" href="html/criterios-de-divisibilidad.html">
+      <file href="html/criterios-de-divisibilidad.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8a-9sn0xlnp9" type="webcontent" adlcp:scormtype="sco" href="html/actividad1.html">
+      <file href="html/actividad1.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8a-dam5u5ztg" type="webcontent" adlcp:scormtype="sco" href="html/reto1.html">
+      <file href="html/reto1.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8a-gi2j6wil1" type="webcontent" adlcp:scormtype="sco" href="html/minimo-comun-multiplo.html">
+      <file href="html/minimo-comun-multiplo.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8b-6lwfjweqe" type="webcontent" adlcp:scormtype="sco" href="html/actividad2.html">
+      <file href="html/actividad2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8b-480tl5mmw" type="webcontent" adlcp:scormtype="sco" href="html/reto2.html">
+      <file href="html/reto2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8b-cnozo15mk" type="webcontent" adlcp:scormtype="sco" href="html/maximo-comun-divisor.html">
+      <file href="html/maximo-comun-divisor.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8c-kke7wcaky" type="webcontent" adlcp:scormtype="sco" href="html/actividad3.html">
+      <file href="html/actividad3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8d-dcncbgyzt" type="webcontent" adlcp:scormtype="sco" href="html/reto3.html">
+      <file href="html/reto3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-mph1kj8d-3seab6wk3" type="webcontent" adlcp:scormtype="sco" href="html/evaluacion-final.html">
+      <file href="html/evaluacion-final.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/img/exe_powered_logo.png"/>
+      <file href="content/resources/029b0ab9-d923-cb21-e4e0-d72502076eee.png"/>
+      <file href="content/resources/1bb3a247-0c2f-1158-8c7c-3f7179dc6353.html"/>
+      <file href="content/resources/2345bff3-b45a-f07c-b4c7-f5e90e1992f9.jpg"/>
+      <file href="content/resources/2d9f52f1-7115-5cb4-9825-5ebd825e44b2.jpg"/>
+      <file href="content/resources/44e02c7a-d709-0c78-5808-bbc6d9a70330.png"/>
+      <file href="content/resources/45052dd6-6c87-de54-1cc2-55ed43ad68e3.html"/>
+      <file href="content/resources/47983054-2a14-d35b-1a41-ab80872a9abe.html"/>
+      <file href="content/resources/4b4712db-f92f-ff6d-eaf3-af22b41d5585.png"/>
+      <file href="content/resources/51ed6895-94ee-acfc-4d15-05db8b4ff979.png"/>
+      <file href="content/resources/58842e2f-b85d-56ff-65b2-03af2de7f36c.pilas"/>
+      <file href="content/resources/6147a897-f294-405d-87c1-040d1bf05701.png"/>
+      <file href="content/resources/6fc2aa79-589d-7d1c-8d31-4b5a8bfdc360.jpg"/>
+      <file href="content/resources/7cca04ec-2b57-73e2-b260-22024ff114bd.png"/>
+      <file href="content/resources/89724bfa-6365-6c6e-113a-f012523c4951.png"/>
+      <file href="content/resources/8ed29c9b-f071-34c2-3900-baeb7bce9de1.png"/>
+      <file href="content/resources/907455b1-5323-5543-794b-532bc38a4b80.png"/>
+      <file href="content/resources/9e5f3711-70de-7955-8b20-3ff92ba38126.png"/>
+      <file href="content/resources/ACT1.png"/>
+      <file href="content/resources/CRITERIOS.jpg"/>
+      <file href="content/resources/ChatGPT Image 20 may 2026, 21_06_49.png"/>
+      <file href="content/resources/ChatGPT Image 20 may 2026, 21_06_58.png"/>
+      <file href="content/resources/Copilot_20260520_212339.png"/>
+      <file href="content/resources/Copilot_20260520_213320.png"/>
+      <file href="content/resources/Copilot_20260520_215039.png"/>
+      <file href="content/resources/DIAS.png"/>
+      <file href="content/resources/FLECHA1_PM-removebg-preview.png"/>
+      <file href="content/resources/FLECHA2-removebg-preview.png"/>
+      <file href="content/resources/a4233bd8-e083-7259-6356-a69b8df7f3b9.jpg"/>
+      <file href="content/resources/b74f961b-7456-b508-ac03-396aae0a74c2.jpg"/>
+      <file href="content/resources/c42512cd-e0af-9b7b-c2d7-ba3f515f50f6.png"/>
+      <file href="content/resources/ca808d55-aaf8-c2d5-1bd7-20ebb5a36352.png"/>
+      <file href="content/resources/ca9f2a5d-ab8b-e2b8-a5a7-8b1ac4bfe552.html"/>
+      <file href="content/resources/d602485c-87cb-e7d3-bf4e-42920e66d6e6.png"/>
+      <file href="content/resources/daf14e19-c815-4c39-caef-ddc45cf2d0e9.jpg"/>
+      <file href="content/resources/descarga (30).jpg"/>
+      <file href="content/resources/descarga (31).jpg"/>
+      <file href="content/resources/descarga (32).jpg"/>
+      <file href="content/resources/descarga (9).png"/>
+      <file href="content/resources/e9a67765-297d-bdac-101b-b69b7fce3765.pdf"/>
+      <file href="content/resources/ebd61519-5ebc-2606-87b7-27335deb8911.html"/>
+      <file href="content/resources/efd0028d-bc19-1cb8-d9aa-9a23094549ab.png"/>
+      <file href="content/resources/el mundo de los numeros (1).pilas"/>
+      <file href="content/resources/el mundo de los números_compressed (2).pdf"/>
+      <file href="content/resources/image (12).png"/>
+      <file href="content/resources/image (13).png"/>
+      <file href="content/resources/image.png"/>
+      <file href="content/resources/logo UNL.jpg"/>
+      <file href="content/resources/logo.jpg"/>
+      <file href="content/resources/menu.png"/>
+      <file href="content/resources/reto 5..html"/>
+      <file href="content/resources/reto..html"/>
+      <file href="content/resources/reto1..html"/>
+      <file href="content/resources/reto2..html"/>
+      <file href="content/resources/reto3..html"/>
+      <file href="idevices/crossword/ccccrossword.png"/>
+      <file href="idevices/crossword/ccgmbackground.jpg"/>
+      <file href="idevices/crossword/ccgmclose.svg"/>
+      <file href="idevices/crossword/ccgmdefinitions.png"/>
+      <file href="idevices/crossword/ccgmnoback.png"/>
+      <file href="idevices/crossword/ccgmzoomf.png"/>
+      <file href="idevices/crossword/ccgmzoomn.png"/>
+      <file href="idevices/crossword/ccmgimage.svg"/>
+      <file href="idevices/crossword/cmmgaudio.svg"/>
+      <file href="idevices/crossword/crossword.css"/>
+      <file href="idevices/crossword/crossword.js"/>
+      <file href="idevices/crossword/exequextaudio.svg"/>
+      <file href="idevices/crossword/exequextcursor.gif"/>
+      <file href="idevices/crossword/exequextfull.svg"/>
+      <file href="idevices/crossword/exequexthits.svg"/>
+      <file href="idevices/crossword/exequextmin.svg"/>
+      <file href="idevices/crossword/exequextnumber.svg"/>
+      <file href="idevices/crossword/exequextreply.svg"/>
+      <file href="idevices/crossword/exequextrerrors.svg"/>
+      <file href="idevices/crossword/exequextscore.svg"/>
+      <file href="idevices/crossword/exequextsq.svg"/>
+      <file href="idevices/crossword/exequexttime.svg"/>
+      <file href="idevices/relate/exequextbuttonko.svg"/>
+      <file href="idevices/relate/exequextbuttonok.svg"/>
+      <file href="idevices/relate/exequextcopyright.png"/>
+      <file href="idevices/relate/exequextcursor.gif"/>
+      <file href="idevices/relate/exequextfull.svg"/>
+      <file href="idevices/relate/exequexthits.svg"/>
+      <file href="idevices/relate/exequextmin.svg"/>
+      <file href="idevices/relate/exequextnumber.svg"/>
+      <file href="idevices/relate/exequextplayaudio.svg"/>
+      <file href="idevices/relate/exequextreload.svg"/>
+      <file href="idevices/relate/exequextreply.svg"/>
+      <file href="idevices/relate/exequextrerrors.svg"/>
+      <file href="idevices/relate/exequextscore.svg"/>
+      <file href="idevices/relate/exequextsq.svg"/>
+      <file href="idevices/relate/exequexttime.svg"/>
+      <file href="idevices/relate/exezoomf.png"/>
+      <file href="idevices/relate/exezoomn.png"/>
+      <file href="idevices/relate/relacionaHome.png"/>
+      <file href="idevices/relate/relacionaIcon.png"/>
+      <file href="idevices/relate/relacionaIcon.svg"/>
+      <file href="idevices/relate/relate.css"/>
+      <file href="idevices/relate/relate.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="idevices/word-search/exequextaudio.svg"/>
+      <file href="idevices/word-search/exequextcursor.gif"/>
+      <file href="idevices/word-search/exequextfull.svg"/>
+      <file href="idevices/word-search/exequexthits.svg"/>
+      <file href="idevices/word-search/exequextlive.png"/>
+      <file href="idevices/word-search/exequextlost.png"/>
+      <file href="idevices/word-search/exequextmin.svg"/>
+      <file href="idevices/word-search/exequextmoveon.svg"/>
+      <file href="idevices/word-search/exequextnumber.svg"/>
+      <file href="idevices/word-search/exequextreload.svg"/>
+      <file href="idevices/word-search/exequextreply.svg"/>
+      <file href="idevices/word-search/exequextrerrors.svg"/>
+      <file href="idevices/word-search/exequextscore.svg"/>
+      <file href="idevices/word-search/exequextsq.svg"/>
+      <file href="idevices/word-search/exequexttime.svg"/>
+      <file href="idevices/word-search/exequextwon.png"/>
+      <file href="idevices/word-search/exezoomf.png"/>
+      <file href="idevices/word-search/exezoomn.png"/>
+      <file href="idevices/word-search/mapacerrarventana.svg"/>
+      <file href="idevices/word-search/sopaHome.png"/>
+      <file href="idevices/word-search/sopaIcon.png"/>
+      <file href="idevices/word-search/sopaaudio.svg"/>
+      <file href="idevices/word-search/sopaimage.svg"/>
+      <file href="idevices/word-search/word-search.css"/>
+      <file href="idevices/word-search/word-search.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery-ui/jquery-ui.min.js"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/open-sans-bold.woff"/>
+      <file href="theme/fonts/open-sans-bold.woff2"/>
+      <file href="theme/fonts/open-sans.woff"/>
+      <file href="theme/fonts/open-sans.woff2"/>
+      <file href="theme/icons/activity.svg"/>
+      <file href="theme/icons/agreement.svg"/>
+      <file href="theme/icons/alert.svg"/>
+      <file href="theme/icons/arts.svg"/>
+      <file href="theme/icons/ask.svg"/>
+      <file href="theme/icons/book.svg"/>
+      <file href="theme/icons/calculate.svg"/>
+      <file href="theme/icons/case.svg"/>
+      <file href="theme/icons/chrono.svg"/>
+      <file href="theme/icons/collaborative.svg"/>
+      <file href="theme/icons/competencies.svg"/>
+      <file href="theme/icons/diary.svg"/>
+      <file href="theme/icons/diary_alt.svg"/>
+      <file href="theme/icons/discuss.svg"/>
+      <file href="theme/icons/download.svg"/>
+      <file href="theme/icons/draw.svg"/>
+      <file href="theme/icons/english.svg"/>
+      <file href="theme/icons/experiment.svg"/>
+      <file href="theme/icons/explore.svg"/>
+      <file href="theme/icons/file.svg"/>
+      <file href="theme/icons/gallery.svg"/>
+      <file href="theme/icons/geography.svg"/>
+      <file href="theme/icons/guide.svg"/>
+      <file href="theme/icons/history.svg"/>
+      <file href="theme/icons/info.svg"/>
+      <file href="theme/icons/interactive.svg"/>
+      <file href="theme/icons/letters.svg"/>
+      <file href="theme/icons/listen.svg"/>
+      <file href="theme/icons/math.svg"/>
+      <file href="theme/icons/music.svg"/>
+      <file href="theme/icons/nature.svg"/>
+      <file href="theme/icons/objectives.svg"/>
+      <file href="theme/icons/observe.svg"/>
+      <file href="theme/icons/passport.svg"/>
+      <file href="theme/icons/perform.svg"/>
+      <file href="theme/icons/piece.svg"/>
+      <file href="theme/icons/pieces.svg"/>
+      <file href="theme/icons/play.svg"/>
+      <file href="theme/icons/present.svg"/>
+      <file href="theme/icons/reflection.svg"/>
+      <file href="theme/icons/roadmap.svg"/>
+      <file href="theme/icons/share.svg"/>
+      <file href="theme/icons/sport.svg"/>
+      <file href="theme/icons/start.svg"/>
+      <file href="theme/icons/stop.svg"/>
+      <file href="theme/icons/suitcase.svg"/>
+      <file href="theme/icons/technology.svg"/>
+      <file href="theme/icons/think.svg"/>
+      <file href="theme/icons/think_alt.svg"/>
+      <file href="theme/icons/video.svg"/>
+      <file href="theme/img/arrow.svg"/>
+      <file href="theme/img/arrow_back.svg"/>
+      <file href="theme/img/arrow_down.svg"/>
+      <file href="theme/img/arrow_forward.svg"/>
+      <file href="theme/img/book.svg"/>
+      <file href="theme/img/book_color.svg"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/img/logo.png"/>
+      <file href="theme/img/logo_responsive.png"/>
+      <file href="theme/img/menu_closed.svg"/>
+      <file href="theme/img/menu_open.svg"/>
+      <file href="theme/img/search.svg"/>
+      <file href="theme/img/switch.svg"/>
+      <file href="theme/img/switch_white.svg"/>
+      <file href="theme/img/teacher_hat.svg"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>
